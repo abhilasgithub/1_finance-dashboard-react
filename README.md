@@ -1,0 +1,15 @@
+# Personal Finance Dashboard (React)
+
+## Features
+- Spending breakdown by category (Pie + Bar charts)
+- Income vs Expenses 6-month comparison
+- Savings trend tracking
+- Responsive design with tabs
+
+## Tech Stack: React 18, Recharts
+
+## Setup
+```bash
+npm install
+npm start
+```
